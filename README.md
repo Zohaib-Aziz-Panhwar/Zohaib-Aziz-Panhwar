@@ -169,3 +169,5 @@ A responsive restaurant platform for online food ordering and table reservations
 <p align="center">
   <i>Thanks for visiting! Feel free to explore my repositories or reach out — I'm always open to collaboration and new opportunities.</i>
 </p>
+
+<!-- profile readme -->
