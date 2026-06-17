@@ -8,7 +8,7 @@
   I build full-stack web apps and AI-powered tools — from real-time meeting assistants<br/>
   with <b>OpenAI</b> &amp; the <b>Model Context Protocol</b> to <b>React + FastAPI</b> products.
 </p>
-
+ 
 <p align="center">
   <a href="mailto:panhwerzohaib2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/zohaib-aziz-panhwar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
