@@ -28,4 +28,6 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 5
-          BRANCH_NAME: profile-summary-card-output
+          BRANCH_NAME: main
+          THEME: tokyonight
+          ANIMATION: fade
